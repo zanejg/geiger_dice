@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name geiger_cct)(type Legacy)(uri ${KIPRJMOD}/geiger_cct.lib)(options "")(descr ""))
+)

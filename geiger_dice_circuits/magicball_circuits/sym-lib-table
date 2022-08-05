@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name magicball_circuits-rescue)(type Legacy)(uri ${KIPRJMOD}/magicball_circuits-rescue.lib)(options "")(descr ""))
+)
